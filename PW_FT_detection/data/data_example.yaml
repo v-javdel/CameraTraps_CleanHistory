@@ -1,0 +1,8 @@
+names:
+  0: animal
+  1: person
+  2: vehicle
+path: ./data/data_example
+test: images/test
+train: images/train
+val: images/val
